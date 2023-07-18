@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talkative/static/css/main.ec6dcf85.css",
+    "main.js": "/talkative/static/js/main.d0513e5c.js",
+    "static/js/787.26fe63b8.chunk.js": "/talkative/static/js/787.26fe63b8.chunk.js",
+    "index.html": "/talkative/index.html",
+    "main.ec6dcf85.css.map": "/talkative/static/css/main.ec6dcf85.css.map",
+    "main.d0513e5c.js.map": "/talkative/static/js/main.d0513e5c.js.map",
+    "787.26fe63b8.chunk.js.map": "/talkative/static/js/787.26fe63b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.d0513e5c.js"
+  ]
+}
